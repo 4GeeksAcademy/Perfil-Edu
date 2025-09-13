@@ -13,10 +13,10 @@ basic_info:
     last_name: Perez
     
     # Define yourself in 4-5 words
-    motto: I like saving the world
+    motto: I like to travel
     
     # Focus
-    focus: Killing Bad Boys
+    focus: Learn and work
     
     # You have 1 paragraph to make a great impression, summarize your career
     summary: |
@@ -32,8 +32,8 @@ basic_info:
     avatar: https://randomuser.me/api/portraits/women/24.jpg
 
     # Contact Information
-    email: a@a.com #optional
-    phone: 234 2342 342 #optional
+    email: eduperez260398@gmail.com #optional
+    phone: 770 869 4830 #optional
     website: asd.com #optional
     linkedin: alandoe #optional
     
@@ -47,10 +47,10 @@ basic_info:
 
     # Languages you speak, levels include: Native, Professional
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
       - idiom: Spanish
@@ -58,9 +58,9 @@ basic_info:
 
     # Interests or hobbies
     interests:
-      - item: Climbing
+      - item: Traveling
 
-      - item: Snowboarding
+      - item: Video Games
 
       - item: Cooking
 
